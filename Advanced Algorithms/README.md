@@ -7,10 +7,10 @@
 
 2. Write a program with multiple functions to implement the addition of a univariate polynomial.
 It is required to 
-1) input two univariate polynomials first.
-2) Then establish corresponding linked lists.
-3) Then calculate the addition.
-4) Finally, output the new polynomial.
+    1. Input two univariate polynomials first.
+    2. Then establish corresponding linked lists.
+    3. Then calculate the addition.
+    4. Finally, output the new polynomial.
 
 3. Write a program that implements the input, transpose, and output of a sparse array represented by triplet. You can directly enter the triplet. The output result requires:
 1) Print the original input triplet and the corresponding matrix form;
@@ -21,15 +21,15 @@ It is required to
 
 5. Write a program that implements the addition of two sparse matrixes represented by triple. 
 Program requirements:
-  1. Input sparse matrixes in the form of triplet;
-  2. Write a function that implements the addition of two triples represented matrixes.
-  3. Print the result of the addition in the form of triplet.
+    1. Input sparse matrixes in the form of triplet;
+    2. Write a function that implements the addition of two triples represented matrixes.
+    3. Print the result of the addition in the form of triplet.
 
 6. Write a recursive program to solve the Tower of Hanoi problem. The number of disks is controlled by keyboard input, and print the order in which the disks are moved.
 
 7. Write a program that implements the conversion of the infix expression to the postfix expression. Requirements:
-  1. the keyboard enters an expression and ends with the character #;
-  2. The output is in the form of a postfix expression.
+    1. the keyboard enters an expression and ends with the character #;
+    2. The output is in the form of a postfix expression.
 
 8. Write a program, create a binary sort tree and traverse the binary sort tree with a inorder traversal algorithm. 
 Requirements:

@@ -1,22 +1,17 @@
 ### Exercises for Data Structures
 #### `Chapter 1` Linear List
-1. 
-Write an algorithm that removes all elements of the linear table A that have a value of b. Assume that there are n (n>0) elements in A, and use a sequential storage structure.
+1. Write an algorithm that removes all elements of the linear table A that have a value of b. Assume that there are n (n>0) elements in A, and use a sequential storage structure.
 
-2. 
-Write an algorithm that saves all odd-valued elements at the lower-index end in linear table A with the least times of exchanges, and the even-valued element stored at the higher-index end. Assume that there are n (n>0) elements in A, using a sequential storage structure.
+2. Write an algorithm that saves all odd-valued elements at the lower-index end in linear table A with the least times of exchanges, and the even-valued element stored at the higher-index end. Assume that there are n (n>0) elements in A, using a sequential storage structure.
 
-3. 
-Write an algorithm that deletes all nodes in the linear linked list that have a value of b. The list header is H.
+3. Write an algorithm that deletes all nodes in the linear linked list that have a value of b. The list header is H.
 
-4. 
-The linear list A = (a1, a2, ..., am) and B = (b1, b2, ... bn) have m and n elements, respectively, using a linked storage structure. Write an algorithm that combines A and B into:
+4. The linear list A = (a1, a2, ..., am) and B = (b1, b2, ... bn) have m and n elements, respectively, using a linked storage structure. Write an algorithm that combines A and B into:
 C=(a1,b1,a2,b2,...,am,bm,bm+1,... bn) 
 or
 C=(a1,b1,a2,b2,...,an,bn,an+1,... am)
 
-5. 
-Write an algorithm that merges the ordered linked lists A and B into a new ordered linked list C. The header pointers of Tables A, B, and C are HA, HB, and HC.
+5. Write an algorithm that merges the ordered linked lists A and B into a new ordered linked list C. The header pointers of Tables A, B, and C are HA, HB, and HC.
 
 #### `Chapter 2` Array
 1. Write an algorithm that converts the sparse matrix A(mXn) into a triple representation.
