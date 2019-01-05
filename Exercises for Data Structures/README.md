@@ -1,4 +1,4 @@
-### Exercises for Data Structures
+## Exercises for Data Structures
 #### `Chapter 1` Linear List
 1. Write an algorithm that removes all elements of the linear table A that have a value of b. Assume that there are n (n>0) elements in A, and use a sequential storage structure.
 

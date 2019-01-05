@@ -1,9 +1,9 @@
-### IntroduIntroduction
+## IntroduIntroduction
 This  is my Data Structures course project, which consists of two parts.
 * Exercises for Data Structures
 * Advanced Algorithms Tasks
 
-### Exercises for Data Structures
+## Exercises for Data Structures
 #### `Chapter 1` Linear List
 1. Write an algorithm that removes all elements of the linear table A that have a value of b. Assume that there are n (n>0) elements in A, and use a sequential storage structure.
 
@@ -51,7 +51,7 @@ C=(a1,b1,a2,b2,...,an,bn,an+1,... am)
 
 3. Write an algorithm that counts the in and out degree of each vertex in the directed graph. The directed graph is represented by an adjacency list.
 
-### Advanced Algorithms Tasks
+## Advanced Algorithms Tasks
 
 
 
@@ -66,9 +66,9 @@ It is required to
     4. Finally, output the new polynomial.
 
 3. Write a program that implements the input, transpose, and output of a sparse array represented by triplet. You can directly enter the triplet. The output result requires:
-1) Print the original input triplet and the corresponding matrix form;
-2) Print the transposed triplet and the corresponding matrix form.
-3) When printing in matrix form, the triplet must not be converted to a two-dimensional array.
+    1. Print the original input triplet and the corresponding matrix form;
+    2. Print the transposed triplet and the corresponding matrix form.
+    3. When printing in matrix form, the triplet must not be converted to a two-dimensional array.
 
 4. Write a program to achieve n-dimensional (n is an odd number) magic square. n is an external input parameter, and the output results are arranged in a square matrix.
 
